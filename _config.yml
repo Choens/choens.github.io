@@ -1,5 +1,8 @@
+## Setup
 title: Andy's Adventures
-description: Just another blog focused on Adventures, Analytics and Family.
+tagline: Just another blog focused on Adventures, Analytics and Family.
+description: Stuff I want to say.
+url:choens.github.io
 author :
     name : Andy Choens
     email : andy.choens@gmail.com
