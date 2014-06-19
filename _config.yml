@@ -1,2 +1,6 @@
-name: "Analytics With Andy"
-description: "An Analytically Oriented Blog"
+title: Andy's Adventures
+description: Just another blog focused on Adventures, Analytics and Family.
+author :
+    name : Andy Choens
+    email : andy.choens@gmail.com
+    github : Choens
