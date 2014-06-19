@@ -9,7 +9,7 @@ pages_list:
   Blog: '/blog'
   RSS: '/rss.xml'
 
-url:choens.github.io
+##url:choens.github.io
 
 ## About Me
 author :
