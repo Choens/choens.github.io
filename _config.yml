@@ -1,13 +1,14 @@
 ## Site ========================================================================
 
-name: Andy's Adventures
+name: Choens
 description: Yet Another GitHub Blog.
 
 
-pages_list:       
-  About: '/about'
-  Blog: '/blog'
-  RSS: '/rss.xml'
+# What exactly does this do?
+#pages_list:       
+#  About: '/about'
+#  Blog: '/blog'
+#  RSS: '/rss.xml'
 
 url: http://choens.github.io
 
