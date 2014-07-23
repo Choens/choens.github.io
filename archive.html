@@ -3,8 +3,8 @@ layout: page
 title: Archive
 ---
 
-    <div style="display: table">
-      <div style="display: table-column">
+    <div style="display: table;">
+      <div style="display: table-column;">
         <table>
             {% for post in site.posts %}
             <tr>
@@ -15,7 +15,7 @@ title: Archive
     	{% endfor %}
         </table>
       </div>
-      <div style="display: table-column">
+      <div style="display: table-column;">
         <ul class="tag-box inline">
           {% assign tags_list = site.categories %}  
           {% if tags_list.first[0] == null %}
