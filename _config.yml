@@ -10,7 +10,7 @@ pages_list:
   Blog: '/blog'
   RSS: '/rss.xml'
 
-baseurl:choens.github.io
+##baseurl:choens.github.io ## This is apparently not acceptable to GitHub
 url:choens.github.io
 
 
