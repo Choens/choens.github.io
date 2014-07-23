@@ -16,10 +16,15 @@ url: choens.github.io
 
 ## About Me ====================================================================
 
-author:
-    name: Andy Choens
-    email: andy.choens@gmail.com
-    github: Choens
+# author:
+#     name: Andy Choens
+#     email: andy.choens@gmail.com
+#     github: Choens
+
+author: Andy Choens
+email: andy.choens@gmail.com
+github: Choens
+
 
 
 
