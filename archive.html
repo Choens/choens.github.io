@@ -4,7 +4,8 @@ title: Archive
 ---
 <!-- Posts By Date --------------------------------------------------------- -->
 <span>
-  <h1>Posts by Date</h1>
+  <br/>
+  <h2>Posts by Date</h2>
   <table>
     {% for post in site.posts %}
     <tr>
@@ -18,9 +19,10 @@ title: Archive
 
 <!-- Posts By Category ----------------------------------------------------- -->
 <span>
-  <h1>Posts by Category</h1>
+  <br/>
+  <h2>Posts by Category</h2>
   {% for tag in site.categories %} 
-  <h2 id="{{ tag[0] }}"><i class="icon-tag"></i> {{ tag[0] | capitalize }}</h2>
+  <h3 id="{{ tag[0] }}"><i class="icon-tag"></i> {{ tag[0] | capitalize }}</h3>
   <table>
     {% assign pages_list = tag[1] %}  
     {% for post in pages_list %}
