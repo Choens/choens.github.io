@@ -63,14 +63,14 @@ main {
 
 	width: 75%;
 	min-width: 600px;
-	margin-left: 23%;
+	margin-left: 25%;
 	display: block;
 }
 
 nav {
 	float: left;
 	width: 20%;
-	--min-width: 175px;
+    margin-left: 5%;
     height: 100%;
     background-color: #f2f2f2;
     border: 1px solid #ccc;
