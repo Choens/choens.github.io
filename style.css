@@ -63,14 +63,14 @@ main {
 
 	width: 75%;
 	min-width: 600px;
-	margin-left: 150px;
+	margin-left: 200px;
 	display: block;
 }
 
 nav {
 	float: left;
-	width: 150px;
-	min-width: 150px;
+	width: 20%;
+	min-width: 175px;
 }
 
 nav a,
