@@ -62,15 +62,15 @@ a:hover {
 main {
 
 	width: 75%;
-	min-width: 600px;
-	margin-left: 175px;
+	--min-width: 600px;
+	--margin-left: 175px;
 	display: block;
 }
 
 nav {
 	float: left;
 	width: 20%;
-	min-width: 175px;
+	--min-width: 175px;
 }
 
 nav a,
