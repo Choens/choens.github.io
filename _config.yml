@@ -1,19 +1,39 @@
-## Setup
+## Site ========================================================================
+
 title: Andy's Adventures
 tagline: Just another blog focused on Adventures, Analytics and Family.
 description: Stuff I want to say.
-markdown: kramdown
+
 
 pages_list:       
   About: '/about'
   Blog: '/blog'
   RSS: '/rss.xml'
 
-##url:choens.github.io
+baseurl:choens.github.io
+url:choens.github.io
 
-## About Me
+
+
+## About Me ====================================================================
+
 author :
     name : Andy Choens
     email : andy.choens@gmail.com
     github : Choens
 
+
+
+## Config ======================================================================
+
+# Uses kramdown because GitHub told me to.
+markdown: kramdown
+
+# Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
+permalink: pretty
+
+# How many articles do you wish to appear on the front page:
+paginate: 3
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
