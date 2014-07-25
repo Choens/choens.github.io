@@ -13,7 +13,7 @@ introduction to R, [IPSUR](http://ipsur.org/). As part of this
 process, I want to make sure I am giving back to the author and I will
 be offering my changes / edits upstream.
 
-## Differences
+### Differences
 
 I have not (yet) decided what I will call my IPSUR fork. I doubt I am
 able to come up with such a nice acronym. . . . . and there are
