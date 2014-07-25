@@ -56,7 +56,7 @@ td {
 }
 
 a:hover {
-    color: #696969;
+    color: #5d5966;
 }
 
 main {
@@ -83,11 +83,11 @@ nav {
 nav a,
 nav a:visited,
 nav a:active {
-    color: blue;
+    color: #4b4756;
 }
 
 nav a:hover {
-    color: #696969;
+    color: #5d5966;
 }
 
 nav li {
@@ -112,7 +112,7 @@ article h2>a:active {
 }
 
 article h2>a:hover {
-    color: #696969;
+    color: #5d5966;
 }
 
 article .entry {
