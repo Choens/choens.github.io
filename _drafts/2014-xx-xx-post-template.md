@@ -1,11 +1,11 @@
 ---
 
-title: Hello World
+title: XXX
 author: Andy Choens
 layout: post
-category: Meta
+category: xxx
 
-excerpt: First, crude attempt to blog via Jekyll.
+excerpt: xxxx
 
 ---
 
