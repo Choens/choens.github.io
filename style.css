@@ -83,7 +83,7 @@ nav {
 nav a,
 nav a:visited,
 nav a:active {
-    color: #4b4756;
+    color: #4B4756;
 }
 
 nav a:hover {
@@ -108,7 +108,7 @@ article h2>a,
 article h2>a:visited,
 article h2>a:active {
     text-decoration: none;
-    color: blue;
+    color: #4B4756;
 }
 
 article h2>a:hover {
