@@ -9,8 +9,6 @@ excerpt: First, crude attempt to blog via Jekyll.
 
 ---
 
-# Hello World
-
 This is my first, rather crude attempt to blog via Jekyll / Github. As
 my understanding of this increases, I'll see if I can increase the
 complexity.
