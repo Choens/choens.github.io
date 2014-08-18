@@ -114,18 +114,21 @@ never met a social scientist who thought they could be effective without
 knowing statistics, but I have met MANY social scientists who felt they could
 be effective without learning basic computer science skills.
 
-This is an attitude that I believe needs to change, now. Computer
-science skills are more important **now** to the effective
+This is an attitude that I believe needs to change, now. Today,
+computer programming skills are more important to the effective
 implementation of social science research than at any prior moment in
 human history.
 
-Version control tracks changes made to code. It creates an auditable
-log of change made to the code. It enables multiple programmers to
-work on the same code at the same time. When appropriate, these
-changes can be synced. When it isn't appropriate, the changes can be
-left separate. Either way, the changes are tracked. It enables
-scientists to know WHO edited the code, when it was edited and it even
-includes a system to document WHY code changes were made.
+Version control gives you the following:
+
+- An auditable log of change made to the code. It enables scientists
+to know:
+    - Who edited the code,
+    - When it was edited and
+    - Why the changes were made.
+- It enables multiple programmers to work on the same code at the same
+time. When appropriate, these changes can be synced. When it isn't
+appropriate, the changes can be left separate.
 
 This isn't just good computer programming. It is good science.
 
