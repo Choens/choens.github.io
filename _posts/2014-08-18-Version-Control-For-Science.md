@@ -5,8 +5,7 @@ author: Andy Choens
 layout: post
 category: Git
 
-excerpt: One skill the social sciences should adopt from the computer
-science world.
+excerpt: One skill the social sciences should adopt from computer science.
 
 ---
 
