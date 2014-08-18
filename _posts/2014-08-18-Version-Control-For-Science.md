@@ -9,7 +9,7 @@ excerpt: One skill the social sciences should adopt from computer science.
 
 ---
 
-# First, A Story . . . Or Seven
+## First, A Story . . . Or Seven
 
 I am going to use the term "social scientist" to broadly apply to
 everyone from economists to political scientists. I am explicitly
@@ -38,7 +38,7 @@ most of us have been in at least a few of these situations or were
 very nearly in one of these situations, so hopefully these stories DO
 feel familiar.
 
-## Example # 1 - Sarah and Bob - CONFLICT!
+### Example # 1 - Sarah and Bob - CONFLICT!
 
 Sarah and Bob both need to run the same report, for different
 clients. Sarah gets to work early and decides to work with the files
@@ -54,7 +54,7 @@ code. One on the network and one on Bob's computer.
 
 Two copies is minimal, but in this case it leads to . . . . 
 
-## Example # 2 - Error in the Report!
+### Example # 2 - Error in the Report!
 
 After Bob copies the super-important code from the network to his
 computer, he starts to run his report. He might not be the early-bird
@@ -69,7 +69,7 @@ turn in their reports. Unfortunately, Bob's is wrong. Sarah's report
 is correct because she ran the code on the shared drive, which
 included Tim's changes. Bob got left out. 
 
-## Example # 3 - Time Off
+### Example # 3 - Time Off
 
 Sam starts working with some files stored on the shared drive on
 Wednesday afternoon. On Thursday morning, this shared drive is
@@ -77,7 +77,7 @@ mysteriously offline. It stays offline until lunch. Sam is frustrated
 that he wastes the morning waiting for access to his code to come
 back. 
 
-## Example # 4 - Who Did It?
+### Example # 4 - Who Did It?
 
 Todd is in a hurry. Unlike Sarah and Bob, he is perpetually running
 late. He needs to run an important report for his supervisor, NOW!  He
