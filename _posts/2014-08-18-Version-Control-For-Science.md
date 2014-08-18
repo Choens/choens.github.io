@@ -136,9 +136,9 @@ I promised some links. So here are some links.
 - For another perspective on this, see the Git section of the Software
   Carpentry website here:
   [Version Control with Git](http://www.software-carpentry.org/v5/novice/git/index.html)
-    This is a terrific website. The authors of Software Carpentry
-    provide introductory computer science courses for scientists all
-    over the world. They are very cool people.
+  This is a terrific website. The authors of Software Carpentry
+  provide introductory computer science courses for scientists all
+  over the world. They are very cool people.
 - For a more visial introduction:
   [A Visual Guide to Version Control](http://betterexplained.com/articles/a-visual-guide-to-version-control/)
 - For an introductory primer in Git, see this
