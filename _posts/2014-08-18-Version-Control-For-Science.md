@@ -70,7 +70,7 @@ Tim's changes.
 **Example # 3 - Time Off**
 
 Sam starts working with some files stored on the shared drive on
-Wednesday afternoon. On Thursday morning (yes, Thursday), theshared
+Wednesday afternoon. On Thursday morning (yes, Thursday), the shared
 drive is mysteriously offline. Some say it happens every Thursday, but
 it is just a rumor. It stays offline until lunch. Sam is frustrated
 that he wastes the morning waiting for access to his code to come
