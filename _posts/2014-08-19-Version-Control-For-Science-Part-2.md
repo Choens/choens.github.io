@@ -105,7 +105,7 @@ _Version 1 - Todd Did It, And We Know When_
 Unfortunately, Todd was working in the Master branch of his local
 repository. He save his changes and pushes them to the central
 repository. He did not follow company policy and go through the
-appropriate code review process. These changes are buried depp in the
+appropriate code review process. These changes are buried deep in the
 code and they are wrong for everyone, except Todd. Several other
 people pull down his changes and blindly merge them with their
 code. The following week, while working on his own TPS report, Tim
