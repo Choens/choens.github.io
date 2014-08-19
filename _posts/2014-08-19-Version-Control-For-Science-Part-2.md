@@ -43,7 +43,9 @@ changes. Any change introduced by Bob and Sarah are only allowed into
 the master branch with Tim's approval.
 
 Fifteen minutes into the week, and we already have two
-clones and two new branches.
+clones and two new branches. Fortunately, this is not a Star Wars film
+and this story includes no further references to the Clone Wars or Jar
+Jar Binks.
 
 **Example # 2 - Error in the Report!**
 
