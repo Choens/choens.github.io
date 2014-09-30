@@ -3,7 +3,7 @@ layout: page
 title: Analytic Toolbox
 ---
 
-# What Is the Analytic Toolbox?
+## What Is the Analytic Toolbox?
 
 The Analytic Toolbox is a collection of GitHub repositories and
 online resources I use to make my life a little easier as an
@@ -11,7 +11,7 @@ analyst. This page (and any other pages in this folder) will serve as
 the temporary home for the Analytic Toolbox until I create something
 more permanent.
 
-# Rationale
+## Rationale
 
 Every analysis is different, yet _much_ of what we do as analysts is
 the same every single time. Think about your own work. You obtain a
@@ -28,9 +28,9 @@ strucuture and sections in each of my files. All boilerplate and all
 repetitive. The goal of the "Analytic Toolbox" series, is to provide
 as much of this boilerplate as possible.
 
-# Links
+## Links
 
-## Templates
+### Templates
 
 - [Project Template - R](https://github.com/Choens/analytic-template-r)
 - [Analytic Templates](https://github.com/Choens/analytic-templates)
