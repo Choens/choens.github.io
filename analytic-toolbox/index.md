@@ -1,9 +1,6 @@
 ---
-
-title: Analytic Toolbox
-author: Andy Choens
 layout: page
-
+title: Analytic Toolbox
 ---
 
 # What Is the Analytic Toolbox?
