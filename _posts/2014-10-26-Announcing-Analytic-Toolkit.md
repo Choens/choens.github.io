@@ -4,18 +4,14 @@ author: Andy Choens
 layout: post
 category: R
 
-excerpt: Formally introducing the Analytic Toolkit Project, a
-collection of project and file templates to help get projects done
-faster and in a consistent manner. It is my attempt to follow DRY
-principles at the project level.
-
 ---
 
 Programmers have a maxim: DO NOT REPEAT YOURSELF
-([DRY](http://en.wikipedia.org/wiki/Don't_repeat_yourself)).
+([DRY](http://en.wikipedia.org/wiki/Don't_repeat_yourself)). The
+Analytics Toolkit project is my attempt to follow this maxim at the
+project level.
 
-The Analytics Toolkit project is my attempt to follow this maxim at
-the project level. At any given moment, I have a half-dozen analysis
+At any given moment, I have a half-dozen analysis
 projects in the air. Some of these consist of only a couple of R
 files. Many projects are made up of of many files, scattered over
 multiple folders. It makes my life easier if these projects all look
