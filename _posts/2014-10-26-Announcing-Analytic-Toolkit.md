@@ -1,14 +1,13 @@
 ---
-
-title: Announcing: The Analytic Toolkit
+title: Announcing - The Analytic Toolkit
 author: Andy Choens
 layout: post
 category: R
 
-excerpt: Announcing: The Analytic Toolkit Project. It is a collection
-of project and file templates to help get projects done faster and in
-a more consistent manner. It is my attempt to follow DRY principles at
-the project level.
+excerpt: Formally introducing the Analytic Toolkit Project, a
+collection of project and file templates to help get projects done
+faster and in a consistent manner. It is my attempt to follow DRY
+principles at the project level.
 
 ---
 
