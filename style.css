@@ -1,13 +1,17 @@
+/* Dark Color - #564b47  */
+/* Very Light, Kinda Off White - #EEEDEC */
+/*  */
+
 body {
     font-size: 12px;
     font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
-    color: #564b47;  
+    color: black;  
     padding-left: 50px;
     padding-right: 20%;
 }
 
 body>header h1>a {
-    color: #564b47;
+    color: black;
     text-decoration: none;
 }
 
@@ -28,20 +32,20 @@ hr {
 }
 
 pre {
-    background-color: #EEEDEC;
+    background-color: Snow;
     margin-left: 30px;
     padding: 5px;
     width: 80%;
 }
 
 code {
-    background-color: #EEEDEC;
+    background-color: light gray;
     padding-left: 3px;
     padding-right: 3px;
 }
 
 pre {
-    background-color: #EEEDEC;
+    background-color: LightGray;
     margin-left: 30px;
     padding: 5px;
     width: 80%;
@@ -56,7 +60,6 @@ td {
 }
 
 a:hover {
-    color: #5d5966;
 }
 
 main {
@@ -73,21 +76,10 @@ nav {
 	float: left;
 	width: 20%;
     height: 100%;
-    background-color: #EDECEE;
+    background-color: WhiteSmoke;
     border: 2px solid #564b47 ;
-
     padding-left: 1%;
     padding-right: 1%;
-}
-
-nav a,
-nav a:visited,
-nav a:active {
-    color: #4B4756;
-}
-
-nav a:hover {
-    color: #5d5966;
 }
 
 nav li {
@@ -102,17 +94,6 @@ footer {
 
 article {
 	margin: 10px;
-}
-
-article h2>a,
-article h2>a:visited,
-article h2>a:active {
-    text-decoration: none;
-    color: #4B4756;
-}
-
-article h2>a:hover {
-    color: #5d5966;
 }
 
 article .entry {
