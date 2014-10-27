@@ -5,8 +5,8 @@
 body {
     font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
     color: black;  
-    padding-left: 50px;
-    padding-right: 20%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 body>header h1>a {
@@ -23,8 +23,6 @@ h1,h2,h3,h4 {
 }
 
 hr {
-    margin-left: 0;
-    padding-left: 0;
 	width: 100%;
 	min-width: 840px;
 }
@@ -78,7 +76,7 @@ nav {
 }
 
 nav li {
-    margin-left: -25px;
+    margin-left: 5%;
     list-style: none;
 }
 
