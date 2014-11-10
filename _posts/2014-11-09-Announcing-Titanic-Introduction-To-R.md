@@ -13,7 +13,7 @@ two groups, a training set and a test set. Kaggle is using it as an
 introduction into predictive modeline. I want to use it to introduce
 people to R more broadly.
 
-[The Titanic Introduction To R](titanic/index.html)
+[The Titanic Introduction To R](http://choens.github.io/titanic/)
 
 In keeping with the theme, each lesson will be referred to as a
 SOS. For the time being, don't bookmark any page other than the
