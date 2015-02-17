@@ -2,7 +2,7 @@
 title: A Day At Magic
 author: Andy Choens
 layout: post
-category: trip report
+category: Trip Report
 
 ---
 
@@ -10,6 +10,6 @@ Spent the day at Magic Mountain skiing. Beautiful day. Good snow. NOT
 the storm the the century.
 
 <img
- src="https://plus.google.com/photos?pid=6113731257351332530&oid=115949869483297037227"
+ src="https://lh6.googleusercontent.com/-cARyrOl8rCg/VNhWL8ag4rI/AAAAAAAAHoY/t3xtpqAjzl4/w1597-h586-no/IMG_20150128_125630-PANO.jpg"
  alt="A picture of the slopes at Magic Mountain."
 >
