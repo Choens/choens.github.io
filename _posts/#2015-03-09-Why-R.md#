@@ -1,0 +1,34 @@
+---
+title: Why R
+author: Andy Choens
+layout: post
+category: R
+
+---
+
+Last week, I gave a presentation to the New York State Department of
+Health SAS User's Group. They were a delightfully nice group of
+people. I spent nearly an hour talking about why a SAS user might want
+to use R, and they didn't even throw me out! Delightful. Some audience
+members had threatened me with tomatoes and other fruit/vegetable
+matter, but apparently the security officer at the entrance to the
+Wadsworth Center disarmed them. No fruits, vegetables or speakers were
+harmed.
+
+For the time being, slides can be found here:
+<a href="http://choens.github.io/why-r">
+choens.github.io/why-r
+</a>
+
+I have been invited to do a repeat performance in June, 2015 at the
+Albany Chapter of the American Statistical Association. For that
+presentation, I will probably tweak / alter the presentation for this
+group. To download / view a version of the slides / presentation as I
+presented to NYSSUG in March 2015, follow the link below to my GitHub
+account and follow the directions there:
+
+<href="https://github.com/Choens/why-r/releases/tag/2015-NYSSUG">
+github.com/Choens/why-r/releases/tag/2015-NYSSUG
+</a>
+
+
