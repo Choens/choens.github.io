@@ -1,7 +1,7 @@
 body {
     font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
     color: black;
-    background-color: #bbc3cc;
+    background-color: #e3e7ea;
     padding-left: 5%;
     padding-right: 5%;
 }
@@ -81,7 +81,7 @@ header a:visited {
 header.post {
     width: 100%;
     color: black;
-    background-color: #e3e7ea;
+    background-color: #d6dbe0;
     padding-left: 1%;
     padding-right: 1%;
     padding-bottom: .125%;
