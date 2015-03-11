@@ -75,9 +75,17 @@ nav {
     height: 100%;
     background-color: lightslategray;
     border: 2px solid black;
-    color: white;
+    color: white; 
     padding-left: 1%;
     padding-right: 1%;
+}
+
+nav a {
+    color: white;
+}
+
+nav a:visited {
+    color:crimson;
 }
 
 nav li {
