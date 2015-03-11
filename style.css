@@ -63,7 +63,7 @@ main {
 
 header {
     width: 100%;
-    background-color: #889977;
+    background-color: #475b5b;
     color: white;
     padding-left: 1%;
     padding-right: 1%;
@@ -80,7 +80,7 @@ header a:visited {
 header.post {
     width: 100%;
     color: black;
-    background-color: #475b5b;
+    background-color: #e3e7ea;
     padding-left: 1%;
     padding-right: 1%;
     padding-bottom: .125%;
