@@ -75,7 +75,7 @@ header a {
 }
 
 header a:visited {
-    color:crimson;
+    color:white;
 }
 
 header.post {
@@ -85,6 +85,14 @@ header.post {
     #border: 2px solid black;
     padding-left: 1%;
     padding-right: 1%;
+}
+
+header.post a {
+    color: black;
+}
+
+header.post a:visited {
+    color: rgba(0,0,0,0.75);
 }
 
 nav {
