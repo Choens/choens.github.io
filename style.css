@@ -61,6 +61,14 @@ main {
     padding-right: 1%;
 }
 
+header {
+    width: 80%;
+    background-color: whitesmoke;
+    #border: 2px solid black;
+    #padding-left: 1%;
+    #padding-right: 1%;
+}
+
 nav {
     float: left;
     width: 20%;
