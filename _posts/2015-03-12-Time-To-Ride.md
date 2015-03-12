@@ -2,15 +2,15 @@
 title: Time To Ride
 author: Andy Choens
 layout: post
-category: Adventures, trip report
-excerpt: Stumbled onto an old video of some friends riding at SMBA and it got me to thinking about the upcoming season of MTB hillarity.
+category: trip report
+excerpt: While recovering from a recent ride, I stumbled onto an old video of some friends riding at SMBA and it got me to thinking about the upcoming season of MTB hillarity.
 
 ---
 
 Although there is still plenty of snow still on the ground, it is time
-to start getting my mountain bike ready to ride. Stumbled onto an old
-vide of some friends riding at SMBA and it got me to thinking about
-the upcoming season of hillarity.
+to start getting my mountain bike ready to ride. While recovering from
+a recent ride, I stumbled onto an old vide of some friends riding at
+SMBA and it got me to thinking about the upcoming season of hillarity.
 
 SMBA has some big plans on the Rensselaer plateau this season. Big
 plans for some new trails. Volunteers needed. Always.
