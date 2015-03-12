@@ -129,13 +129,14 @@ article {
 article .entry {
     margin-left: 2%;
     padding: 2%;
-    background-color: #f1f3f4;
+    background-color: #c7cacd;
 }
 
 article .entry img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    background-color: #c7cacd;
     width: 100%;
 }
 
