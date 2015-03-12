@@ -80,8 +80,8 @@ header a:visited {
 
 header.post {
     width: 100%;
-    color: black;
-    background-color: #d6dbe0;
+    color: #070909;
+    background-color: #c7cdcd;
     padding-left: 1%;
     padding-right: 1%;
     padding-bottom: .125%;
@@ -89,11 +89,11 @@ header.post {
 }
 
 header.post a {
-    color: black;
+    color: #070909;
 }
 
 header.post a:visited {
-    color: rgba(0,0,0,0.75);
+    color: rgba(7,8,9,0.75);
 }
 
 nav {
