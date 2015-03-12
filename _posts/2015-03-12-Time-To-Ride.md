@@ -3,7 +3,8 @@ title: Time To Ride
 author: Andy Choens
 layout: post
 category: Adventures
-excerpt:<iframe width="500" height="281" src="http://www.pinkbike.com/v/embed/383532/?colors=c80000" allowfullscreen frameborder="0"></iframe>
+excerpt:Found an old video of some friends riding at SMBA and it got
+me to thinking about the upcoming season of MTB hillarity.
 
 ---
 
