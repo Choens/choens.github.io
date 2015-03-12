@@ -21,7 +21,7 @@ github: Choens
 ## Config ======================================================================
 
 # Uses kramdown because GitHub told me to.
-markdown: kramdown
+markdown: rdiscount
 
 # Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
 permalink: pretty
