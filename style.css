@@ -129,6 +129,7 @@ article {
 article .entry {
     margin-left: 2%;
     padding: 2%;
+    background-color: #f1f3f4;
 }
 
 article .entry img {
