@@ -54,7 +54,7 @@ main {
     width: 75%;
     min-width: 600px;
     margin-left: 25%;
-    display: inline-block;
+    #display: inline-block;
     padding-left: 1%;
     padding-right: 1%;
 }
@@ -70,7 +70,7 @@ header {
 
 header.top{
     #position: fixed;
-    display:inline-block;
+    #display:inline-block;
 }
 
 header a {
@@ -110,7 +110,7 @@ nav {
     padding-left: 1%;
     padding-right: 1%;
     clear: left;
-    display:inline-block;
+    #display:inline-block;
     #position: fixed;
 }
 
