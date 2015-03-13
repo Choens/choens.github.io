@@ -65,6 +65,8 @@ header {
     color: white;
     padding-left: 1%;
     padding-right: 1%;
+    position:fixed;
+    outline:none;
 }
 
 header a {
