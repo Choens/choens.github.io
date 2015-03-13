@@ -67,14 +67,8 @@ header {
     padding-right: 1%;
 }
 
-header .top{
-    #width: 100%;
-    #background-color: #313f3f;
-    #color: white;
-    #padding-left: 1%;
-    #padding-right: 1%;
+header.top{
     position:fixed;
-    
 }
 
 header a {
