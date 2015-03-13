@@ -68,7 +68,7 @@ header {
 }
 
 header.top{
-    top: 5px
+    top: 5px;
     position: fixed;
 }
 
