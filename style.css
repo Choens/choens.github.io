@@ -69,7 +69,8 @@ header {
 }
 
 header.top{
-    position: absolute;
+    position: fixed;
+    display:inline-block;
 }
 
 header a {
