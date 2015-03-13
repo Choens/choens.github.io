@@ -69,7 +69,7 @@ header {
 }
 
 header.top{
-    position: fixed;
+    #position: fixed;
     display:inline-block;
 }
 
@@ -111,7 +111,7 @@ nav {
     padding-right: 1%;
     clear: left;
     display:inline-block;
-    position: fixed;
+    #position: fixed;
 }
 
 nav a {
