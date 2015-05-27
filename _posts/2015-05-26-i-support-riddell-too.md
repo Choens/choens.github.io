@@ -26,11 +26,12 @@ from the CC, which purported to demonstrate his violations of the
 Ubuntu CoC do not justify the CCs unprecedented response.
 
 This is a long post, but worth reading:
-[https://skitterman.wordpress.com/2015/05/26/information-exchange-between-the-ubuntu-community-council-and-the-kubuntu-council/].
+(https://skitterman.wordpress.com/2015/05/26/information-exchange-between-the-ubuntu-community-council-and-the-kubuntu-council/).
 
 I am really saddened by the Mark's role in this. Is Ubuntu a
 democracy - of course not. But this dust-up seems to be unjustified
 and completely tone-deaf to the needs of the Kubuntu Community which
 is the largest and most successful of the various *buntu flavors.
 
-<img href="img/riddell-support-banner.png">
+![I support J Riddell](img/riddell-support-banner.png)
+
