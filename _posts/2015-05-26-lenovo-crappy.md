@@ -53,7 +53,7 @@ client would see as liabilities in the hands of a 10 year old. does
 not want on the system. I assumed the Lenovo-branded software was
 properly written. It isn't.
 
-*Note: I am only removed end-user apps. I did not remove any Lenovo
+*Note: I only removed end-user apps. I did not remove any Lenovo
 drivers. Obviously, the system needs those.*
 
 The app VeriFace was my nemesis. Everything else removed itself from
