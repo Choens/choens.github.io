@@ -3,8 +3,7 @@ title: Thanks Lenovo, for truly crappy software.
 author: Andy Choens
 layout: post
 category: bitching
-excerpt: Over the long weekend, I spent some time with a Lenovo laptop. I came
-away from the experience with a bad taste in my mouth.
+excerpt: Over the long weekend, I spent some time with a Lenovo laptop. I came away from the experience with a bad taste in my mouth.
 
 ---
 
