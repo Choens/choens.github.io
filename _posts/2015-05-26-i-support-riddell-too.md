@@ -2,7 +2,7 @@
 title: Kubuntu, Jonathan Riddell
 author: Andy Choens
 layout: post
-category: etc
+category: etc.
 excerpt: Big flap about J Riddell. Much ado about nothing, but now a bruised community.
 
 ---
