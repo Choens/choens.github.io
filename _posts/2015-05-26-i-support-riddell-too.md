@@ -31,7 +31,7 @@ forward and find a way to re-open the dialog here, because I like
 Kubuntu and as strong as it is, I'm not sure it would survive as a
 Debian fork.
 
-https://skitterman.wordpress.com/2015/05/26/information-exchange-between-the-ubuntu-community-council-and-the-kubuntu-council/
+[information-exchange-between-the-ubuntu-community-council-and-the-kubuntu-council](https://skitterman.wordpress.com/2015/05/26/information-exchange-between-the-ubuntu-community-council-and-the-kubuntu-council/)
 
 I am really saddened by the Mark's role in this. Is Ubuntu a
 democracy - of course not. But this dust-up seems to be unjustified
