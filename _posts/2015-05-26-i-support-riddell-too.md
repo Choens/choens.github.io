@@ -25,8 +25,13 @@ I'm sure he bruised a few feelings along the way. But, the links I saw
 from the CC, which purported to demonstrate his violations of the
 Ubuntu CoC do not justify the CCs unprecedented response.
 
-This is a long post, but worth reading:
-(https://skitterman.wordpress.com/2015/05/26/information-exchange-between-the-ubuntu-community-council-and-the-kubuntu-council/).
+This is a long post, but worth reading. It seems to explain things in
+as much detail as I can find anywhere. I hope cooler heads step
+forward and find a way to re-open the dialog here, because I like
+Kubuntu and as strong as it is, I'm not sure it would survive as a
+Debian fork.
+
+https://skitterman.wordpress.com/2015/05/26/information-exchange-between-the-ubuntu-community-council-and-the-kubuntu-council/
 
 I am really saddened by the Mark's role in this. Is Ubuntu a
 democracy - of course not. But this dust-up seems to be unjustified
