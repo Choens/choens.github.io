@@ -38,5 +38,5 @@ democracy - of course not. But this dust-up seems to be unjustified
 and completely tone-deaf to the needs of the Kubuntu Community which
 is the largest and most successful of the various *buntu flavors.
 
-![I support J Riddell](https://choens.github.io/img/riddell-support-banner.png)
+<img src="/img/2015-05-26/support-banner.png" alt="I support Jonathan Riddell." class="img" > 
 
