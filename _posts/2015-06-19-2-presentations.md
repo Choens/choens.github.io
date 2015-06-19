@@ -47,7 +47,7 @@ back until the next week. More to the point, the presentation didn't
 go over well. DOH security prevented me from accessing GitLab, which
 meant I could not really demonstrate anything.
 
-F. A. I. L.
+FAIL!
 
 We recorded the presentation. In the middle of me talking, the
 computer started talking. Apparently we were doing more than Cisco can
