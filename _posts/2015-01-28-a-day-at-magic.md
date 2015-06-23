@@ -2,7 +2,7 @@
 title: A Day At Magic
 author: Andy Choens
 layout: post
-category: Trip Report
+category: trip reports
 
 excerpt: Spent the day at Magic Mountain skiing.
 

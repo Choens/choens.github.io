@@ -2,7 +2,7 @@
 title: Back Dating Posts
 author: Andy Choens
 layout: post
-category: adventures
+category: trip reports
 excerpt: I have been sloppy keeping this up to date.
 
 ---

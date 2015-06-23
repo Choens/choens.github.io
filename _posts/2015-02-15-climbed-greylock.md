@@ -2,7 +2,7 @@
 title: Climbed Greylock
 author: Andy Choens
 layout: post
-category: Trip Report
+category: trip reports
 
 excerpt: Spent the day climbing Greylock and shoveling snow in the driveway.
 
