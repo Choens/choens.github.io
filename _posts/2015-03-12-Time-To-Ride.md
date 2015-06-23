@@ -2,7 +2,7 @@
 title: Time To Ride
 author: Andy Choens
 layout: post
-category: trip report
+category: trip reports
 excerpt: While recovering from a recent ride, I stumbled onto an old video of some friends riding at SMBA and it got me to thinking about the upcoming season of MTB hillarity.
 
 ---
