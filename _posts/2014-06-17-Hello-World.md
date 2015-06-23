@@ -3,7 +3,7 @@
 title: Hello World
 author: Andy Choens
 layout: post
-category: Meta
+category: etc.
 
 excerpt: First, crude attempt to blog via Jekyll.
 

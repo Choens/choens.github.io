@@ -3,7 +3,7 @@
 title: I need a clever title
 author: Andy Choens
 layout: post
-category: Meta
+category: etc.
 
 excerpt: I don't have a clever title for this. Too bad.
 
