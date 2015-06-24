@@ -16,3 +16,8 @@ places this spring. Since most of these adventures were documented by
 my Android phone, I know the date of each adventure. This weekend, I
 am going to go through these pics and post a few back-dated posts to
 document some of my recent adventures.
+
+Update: 2014-06-24: I'm done. I managed to add a number of things I
+had wanted to put up here. In the future, I'll try to not get
+behind. I think I need a current events category too. I'll work on
+that.
