@@ -2,7 +2,7 @@
 title: So Not An Artist
 author: Andy Choens
 layout: post
-category: etc.
+category: bitching
 excerpt: Lamentations regarding my own artistic inability.
 
 ---
