@@ -90,6 +90,7 @@ header.post {
     padding-right: 1%;
     padding-bottom: .125%;
     padding-top: .125%;
+    text-align: left;
 }
 
 header.post a {
