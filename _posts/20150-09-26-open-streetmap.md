@@ -32,3 +32,5 @@ Which results in this:
 <small>
     <a href="http://www.openstreetmap.org/#map=19/42.65584/-73.76062">View Larger Map</a>
 </small>
+
+This is, of course, blocked, because of concerns about iframes.
