@@ -4,14 +4,14 @@ highlighter:      rouge
 gems:             [jekyll-paginate]
 
 # Permalinks
-permalink:     date
+permalink:        date
 
 # Setup
 title:            'Choens'
 tagline:          'Nullius in verba'
 description:      'Rambling about technology, bikes, research and family'
-url:              ''
-baseurl:          'https://choens.github.io'
+url:              https://choens.github.io
+baseurl:          
 
 author:
   name:           'Andy Choens'
