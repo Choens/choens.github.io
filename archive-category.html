@@ -5,22 +5,22 @@ title: Archive - Categories
 
 <!-- Posts By Category ----------------------------------------------------- -->
 <span>
-  {% for tag in site.categories %} 
-  <h3 id="{{ tag[0] }}"><i class="icon-tag"></i> {{ tag[0] | capitalize }}</h3>
-  <table>
-    {% assign pages_list = tag[1] %}  
-    {% for post in pages_list %}
-    <tr>
-    {% if post.title != null %}
-    {% if group == null or group == post.group %}
-    <td><i class="icon-clock"></i> <time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></td>  
-    <td><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></td>
-    {% endif %}
-    {% endif %}
+    {% for tag in site.categories %} 
+    <h3 id="{{ tag[0] }}"></i> {{ tag[0] | capitalize }}</h3>
+    <table>
+        {% assign pages_list = tag[1] %}  
+        {% for post in pages_list %}
+        <tr>
+            {% if post.title != null %}
+            {% if group == null or group == post.group %}
+            <td></i> <time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></td>  
+            <td><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></td>
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+            {% assign pages_list = nil %}
+            {% assign group = nil %}
+        </tr>
+    </table>
     {% endfor %}
-    {% assign pages_list = nil %}
-    {% assign group = nil %}
-    </tr>
-  </table>
-  {% endfor %}
-  </span>
+</span>
