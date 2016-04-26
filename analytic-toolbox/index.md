@@ -1,5 +1,5 @@
 ---
-layout: other
+layout: leaf
 title: Analytic Toolbox
 ---
 

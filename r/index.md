@@ -2,7 +2,7 @@
 
 title: R
 author: Andy Choens
-layout: other
+layout: leaf
 
 ---
 
