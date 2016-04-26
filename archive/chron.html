@@ -8,7 +8,7 @@ title: Archive - Chronological
     {% for post in site.posts %}
     <tr>
       <td><time datetime="{{ post.date|date:"%F" }}">{{post.date|date:"%b %d, %Y"}}</time></td>  
-      <td><a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a></td>
+      <td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
       <td><span class="category">{{ post.categories | category_links }}</span></td>
     </tr>
     {% endfor %}

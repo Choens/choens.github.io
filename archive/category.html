@@ -14,7 +14,7 @@ title: Archive - Categories
             {% if post.title != null %}
             {% if group == null or group == post.group %}
             <td></i> <time datetime="{{ post.date|date:"%F" }}">{{ post.date|date:"%b %d, %Y" }}</time></td>  
-            <td><a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a></td>
+            <td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
             {% endif %}
             {% endif %}
             {% endfor %}

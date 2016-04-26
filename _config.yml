@@ -12,9 +12,7 @@ tagline:          'Nullius in verba'
 description:      'Rambling about technology, bikes, research and family'
 
 baseurl:          
-
-github:
-  url:            'https://choens.github.io/'
+url:              'https://choens.github.io/'
   
 author:
   name:           'Andy Choens'
