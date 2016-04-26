@@ -2,7 +2,7 @@
 title: Announcing - The Titanic Introduction to R
 author: Andy Choens
 layout: post
-category: R
+category: r
 
 ---
 

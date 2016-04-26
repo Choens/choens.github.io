@@ -1,8 +1,8 @@
 ---
-title: To Much Silence
+title: Too Much Silence
 author: Andy Choens
 layout: post
-category: Adventures
+category: adventures
 excerpt: Got distracted.
 
 ---

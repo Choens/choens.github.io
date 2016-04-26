@@ -3,7 +3,7 @@
 title: Version Control For Science Part 2
 author: Andy Choens
 layout: post
-category: Git
+category: git
 
 excerpt: How it could have been different.
 

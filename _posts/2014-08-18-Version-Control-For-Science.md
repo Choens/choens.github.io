@@ -3,7 +3,7 @@
 title: Version Control For Science
 author: Andy Choens
 layout: post
-category: Git
+category: git
 
 excerpt: One skill the social sciences should adopt from computer science.
 

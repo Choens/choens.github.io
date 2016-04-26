@@ -2,7 +2,7 @@
 title: Announcing - The Analytic Toolkit
 author: Andy Choens
 layout: post
-category: R
+category: r
 
 ---
 

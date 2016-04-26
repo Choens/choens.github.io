@@ -2,7 +2,7 @@
 title: Microsoft Buys Revolution Analytics
 author: Andy Choens
 layout: post
-category: R
+category: r
 
 ---
 
