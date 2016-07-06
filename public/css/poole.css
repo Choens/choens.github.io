@@ -234,6 +234,12 @@ img {
   border-radius: 5px;
 }
 
+img.solo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;

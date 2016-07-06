@@ -1,12 +1,9 @@
 ---
-
 title: Hello World
 author: Andy Choens
 layout: post
 category: etcetera
-
 excerpt: First, crude attempt to blog via Jekyll.
-
 ---
 
 This is my first, rather crude attempt to blog via Jekyll / Github. As

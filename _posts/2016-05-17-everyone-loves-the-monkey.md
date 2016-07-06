@@ -1,0 +1,17 @@
+---
+title: Everyone Loves The Monkey!
+author: Andy Choens
+layout: post
+category: monkey business
+excerpt: Because . . , pictures
+---
+
+Don't think I really need to explain these.
+
+<img class="solo" 
+src="https://lh3.googleusercontent.com/bDAW3zATHXjBsIIC8j-yZyWaN6I2xzLpgr5lt9mXV23RKnkSVonZUbuf9vjnmr30JQQKijhxvDD8SkuxOpUz2brJQTlgYFUaws5_X_ntIVFIRCT0HrDxZcxA5VDjYJeY0HBJjK1nnbhZAf1FzpTHLrEM7sWpC5wrXKboOddlQjYNkus8XZScLIpOaLWGm79VgOwbDcLKTbPnumNK8A-TFmTGh6FgtHdyMBI_ezByj88Yw6XeucxxgXml6VP4691_Iu1AUiZ6OmaHnvXo2i89gUqyAgxHqkLAIIeUOfow5jHb8F4vvTjMg_cXMky6WGWhJNXWTY9ozvaNGJHU9vp2yXnkvt2sliid4Wd4R1wl6yJsZWdMoTtSrYTkqJKmMslob977hM_atEEdfP8w9awJNGbfzwzo09xqK-a7pVfewpVSBJBViNf37R23xZi-BexIC_nNz7AYoENHtwvkebRw6AsUo3ZJ7iZzPjRbyH7r_sobjgaBDAYZtwtmwi6WgppyPKM-z-fqRggPBe5w4douovhLfilja4PyKL1Fh0nKBlprTRJ69yuw7ARODmrx3kbT3TmSqF2_Ns_k_TY9oeNFnPqNpcZO3BU=w2480-h1404-no"
+alt="Mom holding her Monkey." width="75%">
+<br />
+<img class="solo" 
+src="https://lh3.googleusercontent.com/6ArJc32uAZ1HExZii8Ywq9n0E-BCkjzAxG38OPsdtAImZJ_HhM-r75QbXz84sfQJKYfYRlTP7zmUjDPRLX8l6IP6QAV0-NbdkvH-PC4PHkeP_F-Js-gk2Zwa1Jb3MY9H_8wWvCGPS7S8u_62P1HEhLquaCWKHG289C68Qv0mKtzG-TqO2CUeuHsxbmhbzbsvP86G5sgTgLVDwTAut53fK5ljTYnryRsW77XBYRU3LPXS0GInBtHPSCJaSeFuYcfukECDuumwD9ysXFhEY5KraJ85Q-jQK8DuyyG3calPnjJuFO04rQYQGkSN6EU5SCtLbo5ZwGVgpY93JVoYcLqNYmDTddV4cWT3OKb6JAKLljzsA6D54BkEk5r5G-2XS0hFq67ttXOKiKZR8C3naYFToVQ6alQh12LLevbJqQUIHlpvZ5gUp34g6fwPhq0Hv4ilq_b4uVBrI8zgGMvpuEV9Ec7CvuBOut_jk05TkOjb74TZ5Ea_bX8qLyMkul-yFdm0cbYKVlsvNTMWaBwnnM-iwRjMYou4MEUqH0QCGT1SQuW2SMnQMaQRM-j1LspnbpikFg8MnwvkyZczp802T8UV6Yq-pJnujCE=w2480-h1404-no"
+alt="The Monkey, hanging out in the isolet." width="75%">
