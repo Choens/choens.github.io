@@ -1,0 +1,92 @@
+---
+title: "Spaced out"
+author: Andy Choens
+layout: post
+category: monkey business
+excerpt: "Is it just me, or is she looking spacey?"
+---
+
+Ha!
+
+<img
+ class="solo"
+ src="https://lh3.googleusercontent.com/N5Rc61fwCsShkebIklIVmXAYU0moC39GeeAZ3zWlboZ5TsKOBFwCVLkIYbFMuoV2PkymChulOtY6AXwS01kDIRagR-tmTmNHWf4AlGUfoPUXRWRAIfgY1nVPGYhkqKTAdN0qFVlI9fsSdl4WFQpI7RKdOymu7LZhSn0KZkCgjALfY1Eo7hVB_yb8J1NH-O5U2N8n7FORLdCGYyiYq_ymBqQWFFvXpoL-Ez7_Z_jtvodB-fF81TQcBuU4QEKfySroGOxD_ARtZYJHKlVdTiW414256hZMrpG6HTOsA2MNhtDeM7YlDt-Lq7pYReIHeq1PLgVgNgXxTGtJrueZAgcyzUgYPeRWK9tslxuWVgDjfTdVSF_vMXyBguHoSOMp-JGRDsH1WOntfYtRrx3kFAJTgwNZp-vIrxnk0txgiWdae9RQP1OpQL8Y_qbY9LhTBGs5CXLF0SE_ZJuF6s5dYVB7Zc2m9CEGn1m4iHw6OvURV50yN8j_m1ykBu13kr7IRLJNtSrDiQ7-ffglioLFH3Jxzdj9dSlLIOF_lvxHpvcBi9khn250n5glx88KyeyqraRWDfjZBvN_axv7MdzvfRCMqEqb7wItJM4=w2480-h1404-no"
+ alt="Leila, swaddled, staring at nothing."
+ width="75%"
+>
+
+<br />
+
+Somebody needs a bath . . . . 
+
+<img
+ class="solo"
+ src="https://lh3.googleusercontent.com/vz2drj1RJfzE2HLi36p6ZLRRvvq-j1MoeWIE8Vf1cSoqF4p16u1cRZLyYBpnKxF9Zk6NwFWyGFXcK3RqM8lE2QmumQ5_o-ml7uhMJs8EC6zxNVGlg1a31xbatj11IS6y7zW4LoYahOpJlKv9YFbFzu8iEp1jFXe7HTKDplU7tf7HPPFuaqNmAZ3NeDg_nlfw7-Lm4INw0CL_JqgjJlzkfAvuK7Sv0kv19DKRqSwqCKMDe28tIWT-O5eY0LlCIw2CcyhM4DjSWoZBST6dCPu12moFyuaFhE5rqxQBVMr7sgvza8jmCj8rwI034lLnD9f71K9u6RVBnlt-f4vpONNLPVArMt3ec4yZTn-FEnns4vCOaPFFKbg9W0gNsAUM0WyDNXcUfesV6W8m52JeumN1Oyyh9PkWc8lQXSTdazheihnWmxAu5eUM2ktMkvDFwtw84CJ7edRtGxLbGkU8P0Vk_b6UjpnBI_K7VxSTRC1obhPcRi8dUBRwH2ZkPDEUUlKCs64BqAf5P0CNTmX1FWIcuBYplVB4uVYN_-LEPzNWDK585vfrTTTvg00xNyL5aZc87o5Mczt_7wThVReRPcP2ye6lAkptWfA=w2480-h1404-no"
+ alt="A slightly dirty closeup"
+ width="75%"
+>
+
+<br />
+
+But she really wants us to leave her along.
+
+<img
+ class="solo"
+ src="https://lh3.googleusercontent.com/7KM4lXa0koFWthL28bjGHigenMraPfz0aK-WdOQ-GP8IPIRaX2wOxjPVotC1aOK0zl7XDVYQ47IYnd5g3lC_J9OzTuxHxed2uA8YIF-v4SiuJx2ZfbdeWJzyI2oYy-L_b9xCvTXf9IWJFZQgbgX-24mDxPwzr7bA78FuCuH-rAmO50y7wsYtzTQBuiLTjG_vYW1CMJRuG61bqqfmTk5aLisNxkC1xUqykIFxAC2L2j0cq2Wj6kSVkptt_IY8422MdVdOB44KROz7cRlvR-AHqbmdaooY_vdC0ws_4gbYsMVERqjz7UrAP5Zt8_CXov9DerzhvGtvlVoMCVvvB0TJVgyw6qGSfxFTpMr2yJGDRmXxxmwKeQ3eGh2CekD7ACb2Gt3uUqiZYXUW3eUrdDzqXCyE_M-83wmvT-mjEr0n2DFfneHtfJ9hLbUVXnYKKbwvL5CT5mChE-nNq5U_rmasiF-TByUlsLD-BXIDMClY82NsBHC3nCBdBhPD1f8u_05MV-qWwq_u1uZTokSyUb1F6lwZkaBwFn9YL1GsnMarsdrd7QbEE40srLRYcj6R03cKq8x2dqBcxcDTbzT0PnmEQwCejNkd4l8=w906-h1604-no"
+ alt="A tired Leila."
+ width="75%"
+>
+
+<br />
+
+And closeups can be cool.
+
+<img
+ class="solo"
+ src="https://lh3.googleusercontent.com/KXvXX8HzgUmzRbIoBhy0qe252ds6fv_b7gvYHRNqv7mkRl7GiPc6CRINkJDItTJ4V4CNiNVt6GZyhxUHUrFJa_7Mb9UZQAdn9ovslcY1agpPM25L98jULhkdQ1CFGloDJla-nxPjFJX78KNyKa1Tr5DW9-d6Xjg5X7ijpWUv94rswMHqYfzo6OFKZiO9BLfMgX4TSwTf1u94wCN2t2bH0drV6RYTIfHKiRZmle0iltoxHCNhsQBywDD4ZMapF_h7Zehr8iGNa2dmDICGQuSmCgrBGGFguFw5UrcMMOR5s3mrqgzBxu36k4g1smvTbsraBsp2pr1pzjgfInbu_qa11HluzfoqWe-9NxvaJOntS3hg91qzR7k3Ldoo6YYe_BqyJjxwaU4eAd2Lu9ZgeT9bnT50SyySqKJHwpJm0T9dqdoW9ScsMqD_UF7n3IYoAYActbBAJjibY7LPyjHLxXa81HQPmHbkPoSaqUzSiXLl--0s5XEQ-b1loh7Vc_21CesSIv-Hz7S3tC125ZSv4U5OOOdW2PNc__JcCu4BtV4FACizJf6FIKaKN7_QQYoxRyDWVVuzCK94Wsg-r6s3ddupuNWlF7QzJBw=w2480-h1404-no"
+ alt="Kinda blurry closeup picture."
+ width="75%"
+>
+
+<br />
+
+But mostly, she just sleeps.
+
+<img
+ class="solo"
+ src="https://lh3.googleusercontent.com/0Fi8gBOe5YPY6r4pQBjnwhTntAdB8Djt05LsT4p4R7QGrq8lBMW79L7uAiFOvia836-oKPFHw4jeQtYpvjWEdix96HM8t6LqXW5jRbGVZS8cc3TPDjYvstiCX-yB78nkeOBEIg_7XvpTexShJw6RBRa-h_T5nyM5_jqqCvrOrFZFk3Km_XAnO0hcgQ25nUirmi-NStoVjvjXWwj2yLB9YwflPmUlkpVjY7pXbsa2k6k_xlc9RNUJGH_Wh-odr4FTT3HGtSGR8gycfpiWs4VlrU3wye_cQNrLecsggTOIK7tzKO_1m9zTSo-7s0YmUoChljvypHPl1s2hNPNPQbk4AYd42rFkoK2c7xyMdO_WfxYNQ-tDm5pnEhYggL6fOVlRIIBqdeANVHmBFgxkW3PrMLEUxAM1Ltd4DeTFH-Aafy6vIyoyh_hNQYjzhTV46G3QEmnE5nKh8I4FhWeN9y7t_B1JUhO3YJp90P4yufpB3DtQRJuaEC-qufyWR0XgcjoyGJdaT3NEj7Hmn69PyWGDLpaLjXQeDav8UejScSUo2juAPtYnNYj8kBjqSobqZgNzLBKn8AOT7qTSQjXkMfl8MWhly-aUy8M=w906-h1604-no"
+ alt="Leila sleeps."
+ width="75%"
+>
+
+<br />
+
+Making faces is fun. Is she winking at Mom?
+
+<img
+ class="solo"
+ src="https://lh3.googleusercontent.com/wOCq2q011mXTuCV8UDSaD7Zq8Krp_pGZGhtCC1U-JfCVKIQdsKmpMo6tzLQFsi3xO70XkdqmeljMrrqmm5HPwGGJkVvvuEYweLRfKHcQps3ht2HWk5ANt5t8d1ke_rQaEYij4b5i_iS-kQEvRBEUS9NOK1XxRh91S4RhDEqB4ME5EtKGap5dRrWuTXujC07_X-YXTo67C16Wh_Kd9InlWfrrm3MovWzM1TposYEy_Ia6bTCkVXRaYSXtV0F8kvTyUMyQ-4mrSJZX3s8TqitNPdmMYP568wTqMMdR-5XGBuZ_f6bko_gQRwgvipgHE6qDUjng5OKFq2LWACrHCUJinhrjBmNGP21EIhCWzSxXcVJdBN1tBM0Vul20VqJUd48Ja8PtDTXudDSUH6desDqtTepfiKTzufkGVE7BfZFaen56Hlfnno3hqhQyxndEVUnRlmpFGbck7wuc7aaFVh4zy_pX065au7bFMhXWOGDz993cRxzY4CKAhPzPTNSEhuRLPtqkjKhxqQglfruwIumoNw1paetqK-H3RH8NAzGt3fddxVWoHfvb88uvrkIkDL0OgcZf2rXVapmPR_xfhea1-SJSaDNB9kM=w906-h1604-no"
+ alt="Winking at Mom?"
+ width="75%"
+>
+
+<br />
+
+He He He He He  . . . . 
+
+<img
+ class="solo"
+ src="https://lh3.googleusercontent.com/8KPmfy6KcTIT89bK6C5kDsh_iUQRYTcFQCcISEj8yp1LEuM50cJSckYnTdMed-ZbHwYkNYY2S2QHxMpgbfC0cLkcfVTzTawPtci7uc-5fI_SuEVd0zcdBmm5nk_c86v6Y4SYTv9L1bwKCOfir9m1LPfhYmJqwGyAayyXctid0YpjOKwmwZkvVoBL_TRSEjYSrC_IWm9T9rIaASqvmaJg-osjjTIy8CG51mDnpBGP2-TMePDIqmbY6pcEEv1TXe0_HY43Xw_GlW8pkVRqzzO_dKfWL4FiK8IUIkNCY0HAeyWto85GHG1FpeXkzba3GvKU7BMLLaCRb50d-HNaN0VyiMzRMByLO0NwGQlR755T_qvjZyOI1ZPqSRhhQ987l5OEQnbMnrXQOI9IsF7Irz_OPGlu6OHqiUWvGMAdq__q_A2b44r3JyK9ldESr9XPj7CSPAB1C698iR7C_rE0Km6PXmGDfcCjNZSmaBX_bxXUVhYk6bgfG8czt5WM6ezwlTenOwa4Qxzihcp8cTivmqQRX3f7ijGyFou2YI14tunG0mL7Vi-IfxnccFZ3J1L2ZmbDlGnv6BQg0-IR_ovOHygUqrg4h_BaAvc=w906-h1604-no"
+ alt="Making monkey sounds!"
+ width="75%"
+>
+
+<br />
+
+<img
+ class="solo"
+ src=""
+ alt=""
+ width="75%"
+>
+

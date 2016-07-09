@@ -1,0 +1,47 @@
+---
+title: Grafton Rocks!
+author: Andy Choens
+layout: post
+category: adventures
+excerpt: "We had quite a day in the rain."
+---
+
+I don't have any actual pictures of the ride. It was wet, cold and
+dreary, but the riding was great. I led the intermediate AM ride and
+we had a lot of fun. This is Greg before everything got real
+gross. Thank you to Grafton for hosting our fundraiser.
+
+<img
+ class="solo"
+ src="https://lh3.googleusercontent.com/Ww7Iye_Q_2wiz24ns110NaeRIy-sPY0utqugDF3AB-Ik0jKlKcKYfzsw7im7rIvH3fFmxHb3uiCQXWiHAzm756Bj0qZs3OMWBZWG_b_c_vI8VGT2OUk0CB8_U9oR9BjSAIhtKVzMzGRZsXHMsy2af_vVChi72sWQGUhH6jEFaqdnkxW-9Taklt1clnV4tZG2x0QE-sodRQNwJHhWJ-trZMRDK-X8dc4NWdJrMJN-tmNbbnIj-VYcumeKmHZjsKNuiYmh_AczZJMfjxC_QySeYYqyF-EWz1Ho92e5oWWmK1FLAL8h1W5Fi_tPBmHtoFubvSVpKde8q4lBBQfTfvL5TU_K8WUJxmehQEKwcA-EF5RWUuNbsfrsNOHpYD4JtpU_jBnxe3r3PGbohkpL0JnNqGuPMqrxKEe_dr89XTUmkgC30Tkzz5a_soGmJXV2tya7UM4iUuQG0O9ySzaXyJ87SPEdBFz29TwJthxWinHR8NFoClIVLnTYLT0KGb11gWpTMuoL6pEypQkP7-Xfpuabuwh4yqiRxVNJXUVSSQW9y_GmA4F1JN9M3ohUm7LB9_eMVCf4eeVh2np9BemSeOJdAySTKgIZYJQ=w2480-h1404-no"
+ alt="Gregg, giving hand signals."
+ width="75%"
+>
+
+<br />
+
+<img
+ class="solo"
+ src="https://lh3.googleusercontent.com/Ww7Iye_Q_2wiz24ns110NaeRIy-sPY0utqugDF3AB-Ik0jKlKcKYfzsw7im7rIvH3fFmxHb3uiCQXWiHAzm756Bj0qZs3OMWBZWG_b_c_vI8VGT2OUk0CB8_U9oR9BjSAIhtKVzMzGRZsXHMsy2af_vVChi72sWQGUhH6jEFaqdnkxW-9Taklt1clnV4tZG2x0QE-sodRQNwJHhWJ-trZMRDK-X8dc4NWdJrMJN-tmNbbnIj-VYcumeKmHZjsKNuiYmh_AczZJMfjxC_QySeYYqyF-EWz1Ho92e5oWWmK1FLAL8h1W5Fi_tPBmHtoFubvSVpKde8q4lBBQfTfvL5TU_K8WUJxmehQEKwcA-EF5RWUuNbsfrsNOHpYD4JtpU_jBnxe3r3PGbohkpL0JnNqGuPMqrxKEe_dr89XTUmkgC30Tkzz5a_soGmJXV2tya7UM4iUuQG0O9ySzaXyJ87SPEdBFz29TwJthxWinHR8NFoClIVLnTYLT0KGb11gWpTMuoL6pEypQkP7-Xfpuabuwh4yqiRxVNJXUVSSQW9y_GmA4F1JN9M3ohUm7LB9_eMVCf4eeVh2np9BemSeOJdAySTKgIZYJQ=w2480-h1404-no"
+ alt="Gregg, giving hand signals."
+ width="75%"
+>
+
+<br />
+
+<img
+ class="solo"
+ src="https://lh3.googleusercontent.com/d5Lp_u0xdjRYhMU632YnjeAceLGeQSn7k-GFThylwxry8Hl-IqW5HFDYkb1vJaUeMx_9R6n6RW9pzd2SShQqGJgjyVlbXGx5_Zy3IeDfh9lGmk8KhEykh4dtdgqf49wSEVHdszjONy5k7P3VPdEgfDW6pO8yIaqBJYblhQO_cJH63v0pX1Hk2vBeF7EYmcJAXa-52bYhoQmjUomL2LlF3wQwPmyP7ooyAMXYBiMjPhTlnXZbPbk0xaAjg8pOH6dRDepsXL-oRLV9V9OMRTAL_qAeSBcQeizIGnz5kpzJjrxWYeNUqZXQh4NB7zFSn9-8PVkj2noGES-y3lVCFFEPZN0q6Jun7pWaHIncLVIjxp-3nqUImSWCjGaZ9SPh-KmC_KiZOF1SNVPbaUSIbsqjGOmRKUwSnRF7bi8HQU3pZpRJg3rEVSZq1awuH-SEFitt6YH8V9Xa0GsckxpYi1P2pheSBReM-do475ubeGSP-XCnZFOSCWAxezDjG7VSTAgsDRQojb3Kkbg9XgwVVzhCjq1NavqLxsm6L1JGDxMSyUY91TtYTcs8XE8FeehZBrnTB8aNEqlYPE0y4sBYqzURaXRM27qbvuc=w2480-h1404-no"
+ alt="Gregg, giving hand signals."
+ width="75%"
+>
+
+<br />
+
+<img
+ class="solo"
+ src="https://lh3.googleusercontent.com/9Iqs5NA5WV4kNXIl6X-js-4IBzGyTN6Vmw55qQ7xBetaLD7ZiNZXq6Fv3LmUKjdDu5gf8iGnr_lmJVYpkCEan-ACHOtIuPA9tQSgNp6zJqIXOaJM8BzdSjO-0QigB1pZWhnmOsPDiq_w2yTSBJuDNhlHC67ykgZ8n_d1Zmb8Bkto19PZsDtgmP07yqYA8GRo9jJ0mykUZr4sYgTXnlsRskIsJKYBFoy7_AzV-nqVaUtYh7UhV1FtiR_czPnadJWeqsyv_k3_twzbIquNUp8yGNqtTn73KFHmes-98UzcsBNhghw-U7cwe0JKBuOnZShMZ0z85uWwFohrlUzOEr4GR6CbK0NR9Lc7qbMXoMZb8dlKaq4DFirC0rGVgaOppxnOCN3WhgRR_V2kAC3UL4P_Dw5S-Bf50dzAxnwYLLWlD6_bMZMLbo009UQaq_K158t8kE1Ir1ZSrhsehAyd7CIl6PClvELKi8uehOdkxQlZeZQswZAfShfad1lnXYhSxcbo0KR0KUIrCK2k5g_xFCaVIT8EcZJY0kgar5u8jQrpLoGTeiPR9bwRrRJPJ5zOL28Lk8DinjTBC753_YwhdWLLF2pmwsPJyMc=w2480-h1404-no"
+ alt="Jerseys for sale."
+ width="75%"
+>
+

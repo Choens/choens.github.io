@@ -15,3 +15,49 @@ Leila is in the swing. Mom might pick her up for another snuggle.
  width="75%"
 >
 
+<br />
+
+No shortage of fun pictures today!
+
+<img
+ class="solo"
+ src="https://lh3.googleusercontent.com/lT2tikOaBZX3k0Fz9gCr3bn2IJnOeLma0FI0cDfw5wj8pdXKdJ69T6SkHzlvGK_FzdZelF0oTr8uToHs46_x-GLjq6cHKeN6ibBHV0D2Ye1uRiHjLR4bVUlVbr7mPLN5Eqreosynp7E9ttefum6lGMZYMkXOgDht7vEUdE4tIMM9UhUJScRWK73sMezZ8HcbFidxlTrqlwnqqbPI_mqUpEztk3UfRVbr4xeuEpMYk-gq3JIegy66ziT7uKcklDjD5EeICHaaSefr4cDeXA56cX9zJrEOfUHIf1RtrScoGjCw7IcHAzocTYn69QrQgQO40AWb3AHYhAB7GN1G-iwCt2o1nehIXqMFy5-eQmBajesaLz8DZLXooB6lk_t_mDna-HSsUrbpk_AAl-8u_eeWrPVfetpdLfCGkf0MAVz6ZQqREuNsMkQpZOkGeJTmgXxeCGdNRR6FLAesB6WbWUxT0kCsFrT5QMRyBbDZc__5nqRmssa2ZR7x8uRMYtQe3UXTR_tK0GR1w4caTJg4kqIP43zdFHRVdk-IACQH09cRA44ygtgnwBe_ONqHp9s3j1UTdhp_uq91c4KeHetZJscHM1XGLocKDvM=w906-h1604-no"
+ alt="Leila doesn't look real happy in this one."
+ width="75%"
+>
+
+<br />
+
+<img
+ class="solo"
+ src="https://lh3.googleusercontent.com/wM9jX8cHTxI1u4mW2QYKbGpeoY5P881T3UdJy05PqMbBQbLtAA-7UDvzuoMG6B3xhVv_ozzdMbOt9eyWYCSBnkrTD4lXzkPWET8UNJBLN5b_R_Qx6thUBsfEICz5bwNBEptYERr2H7zdXo7Ex7dpd_p7v7Tpr_ZfC_dfbUdWAALSRxX_CIa9BXMb14TpXDiwJW-J-B1W8ngHF25jj24nokzPW9MbnNCNrbxEvpxpvkmaQpmfowMxaCUIVINrGiUGqrrV1pODvEc30heqAnJHvfZMXNcoZI3JPv1BldpETYFhIkxFg3lEEO3Lx_4Myxwnt_Y6Ni7dEZI52dZyyUJfqRHJsMGImVxAEZRozunDSpcMtqgdmx39pO1PVvGBnGy1LynSmIiv9ThW25rTR_oAJjbeYiZ8ZsWIDzhFVAFFgK2dIf7L2JXEoLTKTKro-_XAtPSqmE-iq9-1vw4YGurbKGo67J3s8ThfAZnhdbVhwU_g3d_PDRmCyLLkq3R062QowmvM7WzK5kmR87aHCYCTNFjQuwiJ2zxmPIHlVE5rKJC_2u8BAbpk6yWfp7gId0zqHD53syixn_tYk2HdPBixp5kWv8cvkiQ=w906-h1604-no"
+ alt="Here, she is looking up at me. Somewhat inquisitively."
+ width="75%"
+>
+
+<br />
+
+<img
+ class="solo"
+ src="https://lh3.googleusercontent.com/HEq9M49Zq15_BfEu9qui--yVQQJgrO7jAWKTVOC0MPL1Ofn7Is-lJqRSVqj1sLxzLwk2K7dfH914GvLM_0MbR2qQnjQYt7VmmyQYchwklY_0RMw5cSrIf9p7MHtH84dUXVCbJjAHmeS1H20WURbadJmhvhvslGlI6jTjhHTfcjpmRchg4f2p9oGgs-FEFJrOLgS-1KWbTO9bkyof-8InpiYmVOoqbPAxP0NH7WcCOdGj0Y4fZhFbllhH8x8281umEbgcEkKpd5k42WsMJDnLsElpkI2KHDaVWmQgAzEuM4iDxIm6Edigu6VQ9laOVOkzMPICTCtENE3KpLcK3FhLt3pzCMf27MniAoXLP9PPEXuDPIsTspiecPj4OvHbRPF76JA7wuHFGTWSgdUldKe4saQlSvToYJopiyQpvD-RamBwVuec3ZxzW7IG-rXuTzOlxsHsvhwQJ4pAbl4dtGwrilC4NIzs1V7KH2TiIDsIf7gdUyeAO1o-DBYdlhq4XyKGwr_zrhrSIRCILPvXfkdZdzS7iN3onOwhST_ksnHZ8dJhlM9Vf4ST6gkMPRTZOgiv-NcHT9gUSiMTTGOXNzndvVOtRB3vuus=w906-h1604-no"
+ alt="Resting peacefully"
+ width="75%"
+>
+
+<br />
+
+<img
+ class="solo"
+ src=""
+ alt=""
+ width="75%"
+>
+
+<br />
+
+<img
+ class="solo"
+ src="https://lh3.googleusercontent.com/0qhDjs8CaVP1X37LIwNhGMNgqPJfwI3Nln6nfvHWdaWuRWvWpirKp5QadYG5EaIW9VG_-JaOWrQnufiqYN7_Ff88b6OzrTUXm6-jdYLLtVoJm2YzPNwBD_bQsLhVy8C_7cDY7_ZvuUUA38N41hCrlYdJxPAHD_tanm5iUldXEDnXoJNUyFa4x1YXB2Q3iVkUWv24MnsJyud_KkheGOkLpOcYgp-W1bdYn-qXH5shlhI7DBJZdLlfYR4xjpCVQSCqNU5CCA5uLXqvnk7kyKqMIhvZTcNNdHl_zm1lD3hYpw0rRbe932sreToiFqnwy_bjjokTR1KM1aEqQtkKi4Nu5VTQwqEiAcAHYnEqanZzORi-Kiki05lN8uLed65Q28w1fdB-Ijy9jXyyng1si_1GgWlvDlsJ9oH0YoDWyQxUOGlMGET0Syv-MzBDbPgDuu_hwKpatPsp_l8lmsrxKn2II-lj2XmsMBpZVCvI2uYVe0ep_Gwjbq6mA71A_j162eiGzUjLoo85e8mt1S-iPL7XIpg_nmRQ7uNFtZ5SWJFzOYY54Heoa9ozLZqdruUM-zQOwtLkxU9Mhu1KmixJitwUjVjg0cA6rEs=w906-h1604-no"
+ alt="A closeup"
+ width="75%"
+>
