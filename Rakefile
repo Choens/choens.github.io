@@ -1,6 +1,6 @@
 desc 'Runs jekyll serve with the --safe and --baseurl "" options.'
 task :serve do
-  system('jekyll serve --baseurl ""')
+  system('jekyll serve --baseurl --incremental ""')
 end
 
 desc 'Runs jekyll build.'

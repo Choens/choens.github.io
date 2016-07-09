@@ -1,9 +1,9 @@
 ---
-title: Everyone Loves The Monkey!
+title: "Everyone Loves The Monkey!"
 author: Andy Choens
 layout: post
 category: monkey business
-excerpt: Because . . , pictures
+excerpt: "Because . . pictures"
 ---
 
 Don't think I really need to explain these.
