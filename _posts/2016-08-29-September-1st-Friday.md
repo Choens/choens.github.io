@@ -16,7 +16,7 @@ to this.
 <img
  class="solo"
  src="{{ site.baseurl }}/public/img/2016/1st-Friday-September-Ad.jpg"
- alt="A view from the top."
+ alt="A flier for 1st Friday Albany, celebrating 10 years of monthly art nights."
  width="75%"
 >
 
@@ -25,6 +25,6 @@ to this.
 <img
  class="solo"
  src="{{ site.baseurl }}/public/img/2016/1st-Friday-September-Window.jpg"
- alt="A view from the top."
+ alt="This month's 1st Friday Albany theme."
  width="75%"
 >
