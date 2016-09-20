@@ -1,10 +1,12 @@
 source 'https://rubygems.org'
 
+gem 'colorator'
 gem 'ffi'
 gem 'jekyll'
 gem 'jekyll-feed'
 gem 'jekyll-paginate'
 gem 'jekyll-sitemap'
+gem 'jekyll-watch'
 gem 'json'
 gem 'kramdown'
 gem 'posix-spawn'
