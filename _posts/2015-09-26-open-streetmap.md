@@ -2,14 +2,12 @@
 title: Embedding Open Street Map
 author: Andy Choens
 layout: post
-category: Etc.
+category: etcetera
 excerpt: For one of my many projects, I've been trying to embed some mapping content and it looks like OpenStreetMap may be the answer I'm looking for.
 
 ---
 
-For one of my many projects, I've been trying to embed some mapping
-content and it looks like OpenStreetMap may be the answer I'm looking
-for. For example, the Albany Museum of History and Art which is at:
+For example, the Albany Museum of History and Art which is at:
 
 125 Washington Avenue Albany, NY
 
